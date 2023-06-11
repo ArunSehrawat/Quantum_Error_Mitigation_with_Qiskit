@@ -9,4 +9,4 @@ In __QEM_ZNE_single_qubit__ notebook, for a single qubit, we have implemented a 
 
 ![p1_single_qubit](https://github.com/ArunSehrawat/Quantum_Error_Mitigation_with_Qiskit/assets/99533657/31e2f8d4-a5d9-41d5-a725-25a2ec651f1b)
 
-### [Mitiq](https://github.com/unitaryfund/mitiq) is a Python toolkit for implementing error mitigation techniques on quantum computers.
+#### [Mitiq](https://github.com/unitaryfund/mitiq) is a Python toolkit for implementing error mitigation techniques on quantum computers.
