@@ -1,6 +1,6 @@
 # [Quantum Error Mitigation](https://arxiv.org/abs/2210.00921) with [Qiskit](https://github.com/Qiskit)
 
-In __QEM_ZNE_single_qubit__ notebook, for a single qubit, we have implemented a Quantum Error Mitigation (QEM) technique, called Zero-Noise Extrapolation (ZNE), with the quantum software development kit Qiskit.
+In __QEM_ZNE_multi_qubit__ notebook, for a single qubit, we have implemented a Quantum Error Mitigation (QEM) technique, called Zero-Noise Extrapolation (ZNE), with the quantum software development kit Qiskit.
 
 
 ![p0](https://github.com/ArunSehrawat/Quantum_Error_Mitigation_with_Qiskit/assets/99533657/700f0898-f43e-4046-a227-050a3fc5f0fc)
